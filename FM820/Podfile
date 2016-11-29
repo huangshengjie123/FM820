@@ -1,0 +1,10 @@
+platform:ios,'9.0'
+target :FM820 do
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'MJRefresh'
+pod 'MJExtension'
+pod 'ANDLineChartView'
+
+end
